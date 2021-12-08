@@ -1,0 +1,23 @@
+{
+  "name": "kato-pack",
+  "version": "1.0.0",
+  "description": "A package/module that contains a collection of Indonesian quotes and Indonesian memes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quote",
+    "meme",
+    "generator",
+    "stuff",
+    "random",
+    "quotes",
+    "memes",
+    "discord",
+    "indo",
+    "indonesia"
+  ],
+  "author": "https://www.instagram.com/iimaxaa_/",
+  "license": "MIT"
+}
